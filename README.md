@@ -4,7 +4,7 @@ React components by Axelor.
 
 ## Prerequisite
 
-- node >= v24.13
+- node >= v24.19
 - pnpm >= 10
 
 ```bash
